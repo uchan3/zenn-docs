@@ -4,6 +4,7 @@ emoji: "🐍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [API, WebAPI, オライリー]
 published: true
+published_at: 2025-09-06 14:00
 ---
 ## はじめに
 もはやAPI開発をしている人で読んでいない人はいないレベルの言わずと知れた名著「Web API The Good Parts」を今更ながら読んだ。
